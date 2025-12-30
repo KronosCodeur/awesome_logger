@@ -2,7 +2,7 @@
 
 Toutes les modifications notables de ce projet seront documentées dans ce fichier.
 
-## [1.0.0] - 2025-12-30
+## [0.0.1] - 2025-12-30
 
 ### ✨ Ajouté
 - Logger principal avec 20+ catégories d'emojis
@@ -12,20 +12,20 @@ Toutes les modifications notables de ce projet seront documentées dans ce fichi
 - Logs structurés (tables, JSON, sections)
 - Support des niveaux de log (verbose, debug, info, warning, error, success)
 - Catégories spécialisées :
-    - 🌐 Network (HTTP requests/responses)
-    - 💾 Database
-    - 🔑 Authentication
-    - 🧭 Navigation
-    - 🎨 UI/UX
-    - 💳 Payment
-    - 💬 Chat
-    - 🔥 Firebase
-    - 🚀 API
-    - 📁 File operations
-    - 🔔 Notifications
-    - ⏱️ Performance
-    - 📊 Analytics
-    - 🛡️ Security
+  - 🌐 Network (HTTP requests/responses)
+  - 💾 Database
+  - 🔑 Authentication
+  - 🧭 Navigation
+  - 🎨 UI/UX
+  - 💳 Payment
+  - 💬 Chat
+  - 🔥 Firebase
+  - 🚀 API
+  - 📁 File operations
+  - 🔔 Notifications
+  - ⏱️ Performance
+  - 📊 Analytics
+  - 🛡️ Security
 - Tracking des actions utilisateur
 - Logging des changements d'état
 - Support des stack traces formatées
