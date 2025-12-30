@@ -1,7 +1,7 @@
 name: awesome_logger
-description: "Un package de logging élégant et puissant pour Flutter avec des emojis, des catégories, et un accès facile via le BuildContext."
-version: 0.0.1
-homepage:
+description: A powerful and beautiful logging package for Flutter with emojis, colors, and easy context access
+version: 0.0.1  # ← Doit avoir une version
+homepage: https://github.com/KronosCodeur/awesome_logger
 
 environment:
   sdk: ^3.10.4
